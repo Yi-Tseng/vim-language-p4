@@ -9,7 +9,7 @@ For more information, please see [p4.org](http://p4.org)
 ##How to install:
 
 ```bash
-
+$ curl -o- -L https://raw.githubusercontent.com/TakeshiTseng/vim-language-p4/master/install.sh | bash
 ```
 
 ## License
